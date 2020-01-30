@@ -31,7 +31,7 @@ class School
     
   end
   
-  
+  require "pry"
   def sort 
     
     nu = {}
@@ -39,7 +39,7 @@ class School
         nu[n]=m.sort
       end
       nu
-      bin
+      binding.pry
     end  
          
 end
