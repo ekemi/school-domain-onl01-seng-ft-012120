@@ -36,7 +36,7 @@ class School
     
     nu = {}
     @roster.each do |n,m|
-        nu[x]=y.sort
+        nu[n]=y.sort
       end
       nu
     end  
