@@ -7,6 +7,10 @@ class School
     @name = name
     
   end
+  def roster
+    
+    @name
+  end
   
 end
 
