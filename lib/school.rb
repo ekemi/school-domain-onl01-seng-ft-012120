@@ -9,7 +9,9 @@ class School
    
    @roster ={}
  end
-  
+  def roster
+    
+  end
 end
 
 #school = School.new #("Bayside High School")
