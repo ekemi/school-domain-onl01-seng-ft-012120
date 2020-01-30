@@ -36,7 +36,7 @@ class School
     
     nu = {}
     @roster.each do |n,m|
-        
+        nu[x]
          
 end
 
