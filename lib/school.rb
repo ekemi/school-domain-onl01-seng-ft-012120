@@ -1,5 +1,5 @@
 # code here!
-
+require "pry"
 class School
   
   def initialize(name)
@@ -19,6 +19,7 @@ class School
     @roster[student_grade] << student_name
     
   end 
+  binding.pry
 end
 
 #school = School.new #("Bayside High School")
