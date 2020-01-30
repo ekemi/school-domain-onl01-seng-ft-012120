@@ -26,6 +26,11 @@ class School
             return y
           
           end
+          
+    def sort 
+      
+      
+    end
     end      
     
   end
