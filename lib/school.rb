@@ -19,7 +19,9 @@ class School
     @roster[student_grade] << student_name
      binding.pry
   end
-  
+  def grade 
+    
+  end
 end
 
 #school = School.new #("Bayside High School")
