@@ -25,6 +25,7 @@ class School
           if x == level
             return y
           end
+    end      
     
   end
 end
