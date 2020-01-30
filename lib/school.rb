@@ -39,6 +39,7 @@ class School
         nu[n]=m.sort
       end
       nu
+      bin
     end  
          
 end
