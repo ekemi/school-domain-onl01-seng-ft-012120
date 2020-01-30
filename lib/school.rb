@@ -39,6 +39,7 @@ class School
         nu[x]=y.sort
       end
       nu
+    end  
          
 end
 
