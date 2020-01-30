@@ -10,4 +10,4 @@ class School
   
 end
 
-school = School.new()
+school = School.new(Bayside High School")
