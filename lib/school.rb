@@ -9,11 +9,11 @@ class School
    
    @roster ={}
     
- # end
-  def roster
+ef roster
     
    # @name
-  end
+  end # end
+  d
   
 end
 
