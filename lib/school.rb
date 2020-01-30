@@ -25,11 +25,19 @@ class School
           if x == level
             return y
           
-          end
-          
+        end
+            
     end      
     
   end
+  
+  
+  def sort 
+    
+    nu = {}
+    @roster.each do |n,m|
+        
+         
 end
 
 #school = School.new #("Bayside High School")
