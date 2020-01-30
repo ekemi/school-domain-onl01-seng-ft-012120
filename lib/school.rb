@@ -19,7 +19,10 @@ class School
     @roster[student_grade] << student_name
      binding.pry
   end
-  def grade 
+  def grade (level)
+    
+    @roster.detect do |x,y|
+          if 
     
   end
 end
