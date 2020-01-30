@@ -17,13 +17,14 @@ class School
     
     @roster [student_grade] =[]
     @roster[student_grade] << student_name
-     binding.pry
+     
   end
   def grade (level)
     
     @roster.detect do |x,y|
           if x == level
             return y
+            binding.pry
           end
     end      
     
