@@ -39,7 +39,6 @@ class School
         nu[n]=m.sort
       end
       nu
-      binding.pry
     end  
          
 end
